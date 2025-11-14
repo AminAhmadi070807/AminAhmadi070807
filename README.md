@@ -4,6 +4,7 @@
     </h1>
   <img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="600"/>
 </div>
+<br>
 <div>
       <h2><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/abdd1d43-7737-43fe-bc55-8491ade38fac" /> Contact Us</h1>
       <a href="https://www.linkedin.com/in/amin-ahmadi-59536b384"><img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/122c83da-708f-4432-84e3-7b438bebc469" /></a>
@@ -31,7 +32,7 @@ const About Me = {
       <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/169b7dd8-7101-4725-91e9-568b18a44143" />
       Skills
     </h2>
-    <table>
+    <table align="center">
       <div style="display: flex; align-items: flex-start; align: center">
         <tr>
           <td align="center" width="100">
@@ -68,4 +69,9 @@ const About Me = {
           </td>
         </tr>
     </table>
+</div>
+<br />
+<div>
+    <h2><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/61983508-4d57-4b29-a2d3-431a6cc32d14" /> My States </h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=AminAhmadi070807&show_icons=true&theme=radical" />
 </div>
