@@ -21,7 +21,7 @@ const About Me = {
   data: {
     FullName: "Amin Ahmadi",
     BirthDay: [2007٫ "August 8", "Friday"٫ "Khoy"],
-      Hobbies: ["Music", "Podcast", "Learning", "Coding", "Caffee"]
+    Hobbies: ["Music", "Podcast", "Learning", "Coding", "Caffee"]
   },
 };
 ```
