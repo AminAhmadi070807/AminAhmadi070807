@@ -52,7 +52,7 @@ const About Me = {
               MySQL
           </td>
           <td align="center" width="100">
-              <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6e4b4930-d06b-49fd-af63-0e64993b7f87" />
+              <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c63d47ed-4598-4777-8341-94a5f8bdc884" />
               Express.Js
           </td>
           <td align="center" width="100">
