@@ -8,7 +8,7 @@
 <div>
       <h2><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/abdd1d43-7737-43fe-bc55-8491ade38fac" /> Contact Us</h1>
       <a href="https://www.linkedin.com/in/amin-ahmadi-59536b384"><img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/122c83da-708f-4432-84e3-7b438bebc469" /></a>
-      <a href="https://web.telegram.org/a/#2015427419"><img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/cab3bdb9-0b84-425f-bbd7-cfecd46b6871" /></a>
+      <a href="https://t.me/Amin_Ahmadi_1386"><img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/cab3bdb9-0b84-425f-bbd7-cfecd46b6871" /></a>
       <a href="https://www.instagram.com/aminahmadi070807"><img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/3016a7cd-b106-4832-a29e-af80b94d7e41" /></a>
 </div>
 <br>
