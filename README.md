@@ -35,44 +35,46 @@ const About Me = {
     </h2>
     <table align="center">
       <div style="display: flex; align-items: flex-start; align: center">
-        <tr>
-          <td align="center" width="100">
-              <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /></div>
-             JavaScript
-          </td>
-          <td align="center" width="100">
-              <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" /></div>
-             TypeScript
-          </td>
-          <td align="center" width="100">
-              <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="100" height="100" /></div>
-             Node.Js
-          </td>
-          <td align="center" width="100">
-              <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/76733263-ba44-421a-94ca-72b6a65e33bc" />
-              MongoDB
-          </td>
-          <td align="center" width="100">
-              <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/04d25c2b-0333-46db-8342-2afebf74defe" />
-              MySQL
-          </td>
-          <td align="center" width="100">
-              <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c63d47ed-4598-4777-8341-94a5f8bdc884" />
-              Express.Js
-          </td>
-          <td align="center" width="100">
-              <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/a900dbd3-2cee-420a-af60-295b40469330" />
-             GitHub
-          </td>
-          <td align="center" width="100">
-              <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f20c4952-22a6-4128-b007-eb7e68a0e90b" />
-             GitLab
-          </td>
-          <td align="center" width="100">
-              <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f1d4e09e-4698-4f55-ad7a-cfe4e0eedc15" />
-              Git
-          </td>
-        </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="100" height="100" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="100" height="100" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="100" height="100" />
+      <br>Node.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/user-attachments/assets/76733263-ba44-421a-94ca-72b6a65e33bc" width="100" height="100" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/user-attachments/assets/04d25c2b-0333-46db-8342-2afebf74defe" width="100" height="100" />
+      <br>MySQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/user-attachments/assets/c63d47ed-4598-4777-8341-94a5f8bdc884" width="100" height="100" />
+      <br>Express.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/user-attachments/assets/a900dbd3-2cee-420a-af60-295b40469330" width="100" height="100" />
+      <br>GitHub
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/user-attachments/assets/f20c4952-22a6-4128-b007-eb7e68a0e90b" width="100" height="100" />
+      <br>GitLab
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://github.com/user-attachments/assets/f1d4e09e-4698-4f55-ad7a-cfe4e0eedc15" width="100" height="100" />
+      <br>Git
+    </td>
+  </tr>
     </table>
 </div>
 <br />
