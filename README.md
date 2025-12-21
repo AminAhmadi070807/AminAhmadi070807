@@ -41,6 +41,10 @@ const About Me = {
              JavaScript
           </td>
           <td align="center" width="100">
+              <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" /></div>
+             TypeScript
+          </td>
+          <td align="center" width="100">
               <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="100" height="100" /></div>
              Node.Js
           </td>
