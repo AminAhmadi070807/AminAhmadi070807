@@ -65,8 +65,8 @@ const About Me = {
       <br>GitHub
     </td>
     <td align="center" width="100">
-      <img src="https://github.com/user-attachments/assets/f20c4952-22a6-4128-b007-eb7e68a0e90b" width="100" height="100" />
-      <br>GitLab
+      <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/94172b4f-58cc-4617-9357-55d74b893da0" />
+      <br>Nest.Js
     </td>
   </tr>
   <tr>
