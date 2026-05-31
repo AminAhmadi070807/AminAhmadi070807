@@ -1,4 +1,4 @@
-<div align="center">
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/46006b5a-cc27-4dd3-9fe3-e8d8c2e2fd1c" /><div align="center">
     <h1> hey there I'm Amin Ahmadi
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
@@ -73,6 +73,10 @@ const About Me = {
     <td align="center" width="100">
       <img src="https://github.com/user-attachments/assets/f1d4e09e-4698-4f55-ad7a-cfe4e0eedc15" width="100" height="100" />
       <br>Git
+    </td>
+    <td align="center" width="100">
+        <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9b3e7a63-fb16-49c9-9c21-3f5e88b8d413" />
+        <br>PostgresSql
     </td>
   </tr>
     </table>
