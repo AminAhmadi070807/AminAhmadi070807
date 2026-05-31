@@ -77,6 +77,18 @@ const About Me = {
         <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9b3e7a63-fb16-49c9-9c21-3f5e88b8d413" />
         <br>PostgresSql
     </td>
+    <td align="center" width="100">
+        <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/dc8f80b6-321d-4629-a6e1-57c7b055bc7e" />
+        <br>Microservice
+    </td>
+    <td align="center" width="100">
+        <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6d13ceed-5d44-421e-9a82-ff633b670bd8" />
+        <br>Web Socket
+    </td>
+    <td align="center" width="100">
+        <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/e6927c71-2255-45ee-bfe8-054ada1d4e11" />
+        <br>E2E
+    </td>
   </tr>
     </table>
 </div>
