@@ -1,7 +1,6 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/46006b5a-cc27-4dd3-9fe3-e8d8c2e2fd1c" /><div align="center">
-    <h1> hey there I'm Amin Ahmadi
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    </h1>
+<h1> hey there I'm Amin Ahmadi
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
   <img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="600"/>
 </div>
 <br>
