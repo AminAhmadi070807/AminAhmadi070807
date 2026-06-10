@@ -86,8 +86,8 @@ const About Me = {
         <br>Web Socket
     </td>
     <td align="center" width="100">
-        <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/e6927c71-2255-45ee-bfe8-054ada1d4e11" />
-        <br>E2E
+        <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/78bb26d3-f184-4053-a537-f12c80c63755" />
+        <br>Jest
     </td>
   </tr>
     </table>
