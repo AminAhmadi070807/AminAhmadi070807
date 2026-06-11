@@ -96,6 +96,7 @@ const About Me = {
 <div>
     <h2><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/61983508-4d57-4b29-a2d3-431a6cc32d14" /> My States </h2>
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aminahmadi070807&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aminahmadi070807&layout=compact&langs_count=8&theme=algolia" />
 </div>
 <br />
 <div>
