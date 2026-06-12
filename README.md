@@ -15,13 +15,17 @@
       <h2><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/3e91197d-a986-409b-b3dd-8e027d311f73" /> About Me</h1>
 
 ``` js
-const About Me = {
+const AboutMe = {
   status: 201,
   data: {
     FullName: "Amin Ahmadi",
     PhoneNumber: "09144676519",
-    BirthDay: [2007٫ "August 8", "Friday"٫ "Khoy"],
-    Hobbies: ["Music", "Podcast", "Learning", "Coding", "Caffee"]
+    BirthDay: {
+        Year: 2007,
+        Month: 8,
+        Day: 7,
+    },
+    Hobbies: ["Music", "Podcast", "Learning", "Coding", "Caffee", "Reading"],
   },
 };
 ```
