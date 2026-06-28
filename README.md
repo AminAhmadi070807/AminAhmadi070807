@@ -1,4 +1,4 @@
-<h1> hey there I'm Amin Ahmadi
+<h1> Hello, I'm Amin Ahmadi, Nice to meet you
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="600"/>
